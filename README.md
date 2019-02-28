@@ -1,3 +1,3 @@
-# hello-world Cappuccino
+# hello-world
 
 I love Coffeeeeee
